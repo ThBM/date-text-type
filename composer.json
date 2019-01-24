@@ -2,7 +2,7 @@
     "name": "thbm/date-text-type",
     "description": "DateTextType for Symfony Form allow to use date in french formats.",
     "require": {
-        "symfony/form": "^4.3@dev",
+        "symfony/form": "4.2.*",
         "thbm/date-parser": "dev-master"
     },
     "authors": [
