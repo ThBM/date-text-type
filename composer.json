@@ -1,0 +1,20 @@
+{
+    "name": "thbm/date-text-type",
+    "description": "DateTextType for Symfony Form allow to use date in french formats.",
+    "require": {
+        "symfony/form": "^4.3@dev",
+        "thbm/date-parser": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Thibault Barolat-Massole",
+            "email": "thibault.barolatmassole@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "DateParser": "src/"
+        }
+    }
+}
